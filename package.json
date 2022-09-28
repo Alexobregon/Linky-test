@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/Alexobregon/Linky-test/issues"
   },
-  "homepage": "https://github.com/Alexobregon/Linky-test#readme"
+  "homepage": "https://github.com/Alexobregon/Linky-test#readme",
+  "devDependencies": {
+    "jest": "^29.1.1"
+  }
 }

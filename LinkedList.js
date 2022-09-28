@@ -5,8 +5,8 @@ class LinkedList {
     }
     insertAtHead(data) {
         const newNode = new LinkedListNode(data, this.head)
-        thos.head = newNode
-        length++
+        this.head = newNode
+        this.length++
     }
 
 }
