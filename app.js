@@ -19,10 +19,10 @@ class LinkedListNode {
 }
 
 
-const ll = new LinkedList()
-ll.insertAtHead(10)
-ll.insertAtHead(12)
+const list = new LinkedList()
+list.insertAtHead(10)
+list.insertAtHead(12)
 
 
 
-console.log(ll)
+console.log(list)
